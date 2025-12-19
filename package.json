@@ -1,5 +1,6 @@
 {
-  "name": "@figma/my-make-file",
+  "homepage": "https://TWOJ-NICK.github.io/gym-app",
+  "name": "@my-make-file",
   "private": true,
   "version": "0.0.1",
   "type": "module",
